@@ -1,6 +1,6 @@
 # splithie
 
-![splithie](https://github.com/makkomise/splithie/src/splithie_pcb.png)
+![splithie]([https://github.com/makkomise/splithie/src/splithie_pcb.png](https://github.com/makkomise/splithie/blob/main/src/Splithie_pcb.png))
 
 *Ortho-split keyboard with 56 keys and RGB-per key lighting*
 
